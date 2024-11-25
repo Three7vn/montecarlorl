@@ -1,5 +1,5 @@
 # montecarlorl
-Blackjack simulation using Monte Carlo algorithms to estimate action-value functions Q(s,a) and optimise decision-making policies through first-visit and constant-a reinforcement learning techniques.
+Simulation of blackjack which uses Monte Carlo algorithms to estimate action-value functions Q(s,a) and optimise decision-making policies through first-visit and constant-a reinforcement learning techniques.
 
 
 
