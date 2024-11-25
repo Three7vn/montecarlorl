@@ -13,7 +13,7 @@ Players current hand total.
 Dealer's face-up card.
 Whether the player has a usable ace.
 
-MCM:
+Monte Carlo Methods (MCM):
 MC Prediction: Calculates the action-value function Q(s,a) by averaging the rewards for each state-action pair over multiple episodes (games).
 
 MC Control: Refines the policy using constant-a updates, making decisions increasingly optimal over time.
